@@ -1,4 +1,4 @@
-print('Hello')
+print('hello')
 # Hi 
 # second 
-print('By')
+print('by')
